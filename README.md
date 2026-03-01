@@ -26,21 +26,9 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Aquí solo dejamos la tarjeta de racha (streak) que sí carga -->
+<!-- Tarjeta de racha (streak) — TODOS los parámetros de texto/nums en blanco (ffffff), fondo negro y acento turquesa -->
 <p align="center">
-  <img alt="GitHub Streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az
-&ring=40E0D0
-&fire=40E0D0
-&currStreakLabel=40E0D0
-&background=000000
-&border=ffffff
-&stroke=ffffff
-&currStreakNum=ffffff
-&sideNums=ffffff
-&sideLabels=ffffff
-&dates=ffffff
-&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 > *Datos actualizados automáticamente. El turquesa es mi color favorito.* 🤍
@@ -50,7 +38,7 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes de programación
-<!-- uso for-the-badge para que se vean un poco más grandes -->
+<!-- for-the-badge para un tamaño algo mayor -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -74,7 +62,6 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ## 📬 Conectemos
 
-<!-- Badges visibles -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C6AaTQMnY/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisalbaz)
@@ -84,14 +71,11 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ## 🔗 Enlaces directos
 
-<!-- Uso iconos SVG desde jsDelivr (Simple Icons). Se muestran bien y no deberían dar 404.
-     Ajusto width para que el icono quede pequeño y consistente con el texto. -->
-- <a href="https://www.facebook.com/share/1C6AaTQMnY/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" width="18" style="vertical-align:middle; filter: invert(1) brightness(3); margin-right:8px;" /> **Facebook:** Cristhian Alba</a>
-- <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="18" style="vertical-align:middle; filter: invert(1) brightness(3); margin-right:8px;" /> **LinkedIn:** Cristhian Alba Zapata</a>
-- <a href="https://www.instagram.com/crisalbaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="Instagram" width="18" style="vertical-align:middle; filter: invert(1) brightness(3); margin-right:8px;" /> **Instagram:** @crisalbaz</a>
-- <a href="mailto:crissalbaz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" width="18" style="vertical-align:middle; filter: invert(1) brightness(3); margin-right:8px;" /> **Correo:** crissalbaz@gmail.com</a>
+- <a href="https://www.facebook.com/share/1C6AaTQMnY/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" width="18" /> **Facebook:** Cristhian Alba</a>  
+- <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="18" /> **LinkedIn:** Cristhian Alba Zapata</a>  
+- <a href="https://www.instagram.com/crisalbaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="Instagram" width="18" /> **Instagram:** @crisalbaz</a>  
+- <a href="mailto:crissalbaz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" width="18" /> **Correo:** crissalbaz@gmail.com</a>
 
 ---
 
 ⭐ *Gracias por visitar mi perfil. Si tienes un proyecto o idea, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo juntos.* 🚀
-
