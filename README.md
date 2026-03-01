@@ -1,76 +1,76 @@
-# ¡Hola! Soy Cristhian Alba Zapata 👋
+# ¡Qué onda! Soy Cristhian Alba Zapata 👋
 
-### Estudiante apasionado de Ingeniería de Sistemas de 19 años | Problem Solver | Entusiasta de la tecnología
+### Estudiante de Ingeniería de Sistemas | Amante del código y los retos | De Bolivia para el mundo 🌎
 
-Me alimento del aprendizaje diario y de la creación de soluciones que tengan impacto. Mis áreas de enfoque actuales:
+Creo firmemente que la tecnología puede cambiar realidades. Por eso paso mis días aprendiendo, construyendo y compartiendo lo que sé. Mis vibraciones actuales:
 
-- 🌐 **Desarrollo web**
-- 👁️ **Visión por Ordenador**
-- 👕 **Crear una marca de ropa desde cero** (¡mi sueño definitivo!)
-
----
-
-## 🧑‍💻 Sobre mí
-
-- 🏡 Nací y crecí en **Cochabamba, Bolivia**
-- 🎓 Estudio **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón**
-- 🔥 Actualmente profundizando en: **DevOps, Linux, Blockchain, Desarrollo Web y Arquitectura de Software**
-- 🤝 Me encanta el trabajo en equipo, las competiciones y compartir conocimientos
-- 🗣️ **Español nativo** | **Inglés (en aprendizaje)**
-
-> *"Apunta a la luna. Si fallas, al menos estarás entre las estrellas."* 💫
+- 🌐 **Desarrollo web** (frontend con estilo)
+- 👁️ **Visión por computadora** (que las máquinas vean como nosotros)
+- 👕 **Mi propia marca de ropa** (un sueño que estoy tejiendo)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🧑‍🎨 Sobre mí
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Criss-az&show_icons=true&theme=radical)
+- 🏔️ **Cochabambino de corazón** - Nací y vivo en Bolivia
+- 📚 **Estudiante de Sistemas** en la Universidad Mayor de San Simón
+- 🐧 **Apasionado por Linux y el código abierto**
+- ⚔️ **Me encanta el hacking ético y los CTFs** (capturar banderas es mi vicio)
+- 🎮 **Cuando no estoy programando, estoy jugando o nadando**
+- 💬 **Español nativo | Inglés en proceso** (cada día sumo nuevas palabras)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Criss-az&layout=compact&theme=radical)
-
-> *Estas tarjetas se actualizan automáticamente con tus datos reales de GitHub.*
+> *"No se trata de tener talento, se trata de tener constancia."* — yo mismo 😉
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 📊 Mi ADN en GitHub
 
-### Lenguajes de programación
+![Criss-az GitHub stats](https://github-readme-stats.vercel.app/api?username=Criss-az&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criss-az&layout=compact&theme=tokyonight&hide_border=true)
+
+> *Datos reales, actualizados automáticamente. El verde es mi color favorito.* 💚
+
+---
+
+## 🛠️ Lo que manejo
+
+### Lenguajes que hablo con la computadora
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks, herramientas y otros
+### Herramientas que uso a diario
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-*(Si quieres agregar Kali Linux, Wireshark u otras herramientas de CTF, puedo ayudarte a crear los badges).*
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) *para mis prácticas de CTF*
 
 ---
 
-## 📫 Conectemos
+## 📬 ¿Hablamos?
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C6AaTQMnY/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisalbaz?igsh=MTFjNHB3eDY5OGMzNQ==)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crissalbaz@gmail.com)
 
-O si prefieres en texto plano:
-- **Facebook:** [Cristhian Alba](https://www.facebook.com/share/1C6AaTQMnY/)
-- **LinkedIn:** [Cristhian Alba Zapata](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
-- **Instagram:** [@crisalbaz](https://www.instagram.com/crisalbaz?igsh=MTFjNHB3eDY5OGMzNQ==)
-- **Correo:** [crissalbaz@gmail.com](mailto:crissalbaz@gmail.com)
+O si prefieres el método clásico:
+- **FB**: [Cristhian Alba](https://www.facebook.com/share/1C6AaTQMnY/)
+- **LinkedIn**: [Cristhian Alba Zapata](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
+- **IG**: [@crisalbaz](https://www.instagram.com/crisalbaz)
+- **Correo**: [crissalbaz@gmail.com](mailto:crissalbaz@gmail.com)
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar y aprender cosas nuevas!*
+⚡ *Si llegaste hasta aquí, gracias por tu tiempo. Recuerda: cada línea de código que escribes es un paso más cerca de tus sueños. ¡Hagamos algo increíble juntos!* 🚀
