@@ -28,7 +28,19 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 <!-- Aquí solo dejamos la tarjeta de racha (streak) que sí carga -->
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&hide_border=true">
+  <img alt="GitHub Streak" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az
+&ring=40E0D0
+&fire=40E0D0
+&currStreakLabel=40E0D0
+&background=000000
+&border=ffffff
+&stroke=ffffff
+&currStreakNum=ffffff
+&sideNums=ffffff
+&sideLabels=ffffff
+&dates=ffffff
+&hide_border=true">
 </p>
 
 > *Datos actualizados automáticamente. El turquesa es mi color favorito.* 🤍
@@ -70,7 +82,7 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ---
 
-## 🔗 Enlaces directos (con icono + texto)
+## 🔗 Enlaces directos
 
 <!-- Uso iconos SVG desde jsDelivr (Simple Icons). Se muestran bien y no deberían dar 404.
      Ajusto width para que el icono quede pequeño y consistente con el texto. -->
@@ -83,6 +95,3 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ⭐ *Gracias por visitar mi perfil. Si tienes un proyecto o idea, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo juntos.* 🚀
 
-
-
-## 📊 Estadísticas de GitHub | **Racha** |-----------| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) > *Datos actualizados automáticamente. El turquesa es mi color favorito.* 🤍
