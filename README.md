@@ -82,3 +82,7 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 ---
 
 ⭐ *Gracias por visitar mi perfil. Si tienes un proyecto o idea, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo juntos.* 🚀
+
+
+
+## 📊 Estadísticas de GitHub | **Estadísticas** | **Racha** | **Lenguajes** | |------------------|-----------|---------------| | ![Stats](https://github-readme-stats.vercel.app/api?username=Criss-az&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criss-az&layout=compact&title_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true) | > *Datos actualizados automáticamente. El turquesa es mi color favorito.* 🤍
