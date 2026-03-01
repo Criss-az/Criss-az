@@ -26,11 +26,13 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ## 📊 Estadísticas de GitHub
 
-| **Estadísticas** | **Racha** | **Lenguajes** |
-|------------------|-----------|---------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Criss-az&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criss-az&layout=compact&title_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Criss-az&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Criss-az&layout=compact&title_color=40E0D0&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Lenguajes más usados" />
+</div>
 
-> *Datos actualizados automáticamente. El turquesa es mi color favorito.* 💙
+> *Datos actualizados automáticamente. El turquesa es mi color favorito.* 🤍
 
 ---
 
@@ -55,20 +57,12 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0E0E0E?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI_Tools-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) *(strings, file, etc.)*
 
 > *Siempre explorando nuevas herramientas y técnicas.*
 
 ---
 
 ## 📬 Conectemos
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C6AaTQMnY/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisalbaz?igsh=MTFjNHB3eDY5OGMzNQ==)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crissalbaz@gmail.com)
-
-O si prefieres el formato clásico:
 
 - 📘 **Facebook:** [Cristhian Alba](https://www.facebook.com/share/1C6AaTQMnY/)
 - 💼 **LinkedIn:** [Cristhian Alba Zapata](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
