@@ -26,9 +26,12 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Tarjeta de racha (streak) — TODOS los parámetros de texto/nums en blanco (ffffff), fondo negro y acento turquesa -->
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Criss-az&label=Visitas&color=40E0D0&style=flat" alt="visitas" />
 </p>
 
 > *Datos actualizados automáticamente. El blanco es mi color favorito.* 🤍
@@ -38,7 +41,8 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes de programación
-<!-- for-the-badge para un tamaño algo mayor -->
+
+<!-- Badges con estilo for-the-badge, incluyendo TypeScript -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,8 +50,10 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks, herramientas y otros
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
