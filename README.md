@@ -1,5 +1,9 @@
 # ¡Hola! Soy Cristhian Alba Zapata 👋
 
+<div align="center">
+  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" alt="Mago Final Fantasy lanzando fuego" width="220" style="margin-bottom: 10px;" />
+</div>
+
 ### Estudiante de Ingeniería de Sistemas | Apasionado por resolver problemas | Entusiasta de la tecnología
 
 Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mis enfoques actuales:
@@ -42,7 +46,6 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ### Lenguajes de programación
 
-<!-- Badges con estilo for-the-badge, incluyendo TypeScript -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
