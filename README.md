@@ -1,17 +1,27 @@
 # ¡Hola! Soy Cristhian Alba Zapata 👋
 
-<div align="center">
-  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" alt="Mago Final Fantasy lanzando fuego" width="220" style="margin-bottom: 10px;" />
-</div>
+<p align="center">
+  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" alt="Mago Final Fantasy lanzando fuego" width="220" />
+</p>
 
-### Estudiante de Ingeniería de Sistemas | Apasionado por resolver problemas | Entusiasta de la tecnología
+<p align="center">
+  <strong>Estudiante de Ingeniería de Sistemas</strong> | 
+  <strong>Apasionado por resolver problemas</strong> | 
+  <strong>Entusiasta de la tecnología</strong>
+</p>
 
-Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mis enfoques actuales:
+<p align="center">
+  Cada día aprendo algo nuevo y busco crear soluciones que realmente aporten valor.
+</p>
 
-- 🌐 **Desarrollo web** (frontend con estilo y funcionalidad)
-- 🗄️ **Bases de datos** (diseño, modelado y optimización)
-- 🛡️ **Hacking ético y CTF** (los retos me motivan)
-- 🎨 **Diseño UI/UX con Figma** (dar vida a las ideas)
+---
+
+## 🌟 Lo que me mueve
+
+- 🌐 Desarrollo web con enfoque en diseño, funcionalidad y buena experiencia de usuario  
+- 🗄️ Bases de datos: modelado, optimización y buenas prácticas  
+- 🛡️ Hacking ético y CTF: aprender resolviendo retos  
+- 🎨 UI/UX con Figma: convertir ideas en interfaces claras y atractivas  
 
 ---
 
@@ -19,12 +29,39 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 - 🏔️ Nací y crecí en **Cochabamba, Bolivia**
 - 📚 Estudio **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón**
-- 🏊‍♂️ Amante de la natación y los videojuegos (cuando el código lo permite)
-- 🔥 Actualmente profundizando en: **DevOps, Linux, Desarrollo Web y Hacking (CTF)**
-- 🤝 Disfruto el trabajo en equipo, las competencias y compartir conocimientos
-- 🗣️ **Español nativo** | **Inglés (en aprendizaje)**
+- 🏊‍♂️ Me gusta la natación y los videojuegos
+- 🔥 Actualmente profundizando en **DevOps, Linux, Desarrollo Web y Hacking (CTF)**
+- 🤝 Disfruto trabajar en equipo, compartir conocimientos y aprender de otros
+- 🗣️ **Español nativo** | **Inglés en aprendizaje**
 
 > *"Apunta a la luna. Si fallas, al menos estarás entre las estrellas."* 💫
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Herramientas y entorno
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-0E0E0E?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ---
 
@@ -38,43 +75,24 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
   <img src="https://komarev.com/ghpvc/?username=Criss-az&label=Visitas&color=40E0D0&style=flat" alt="visitas" />
 </p>
 
-> *Datos actualizados automáticamente. El blanco es mi color favorito.* 🤍
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### Lenguajes de programación
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks, herramientas y otros
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0E0E0E?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-> *Siempre explorando nuevas herramientas y técnicas.*
-
 ---
 
 ## 📬 Conectemos
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C6AaTQMnY/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crisalbaz)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crissalbaz@gmail.com)
+<p align="center">
+  <a href="https://www.facebook.com/share/1C6AaTQMnY/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/crisalbaz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:crissalbaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -87,4 +105,24 @@ Cada día aprendo algo nuevo y busco crear soluciones que realmente impacten. Mi
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Si tienes un proyecto o idea, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo juntos.* 🚀
+## 🎮 Retro Zone
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Mini homenaje arcade generado automáticamente con mis contribuciones.</sub>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil.  
+  <br />
+  Si tienes un proyecto o idea, será un gusto conectar contigo.
+</p>

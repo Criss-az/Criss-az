@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Retro Plane Game</title>
+  <style>
+    :root {
+      --bg: #050505;
+      --fg: #e8e8e8;
+      --accent: #40e0d0;
+      --danger: #ff5c7a;
+      --warning: #ffd166;
+    }
+
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: Arial, Helvetica, sans-serif;
+      overflow: hidden;
+    }
+
+    canvas {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+      background:
+        radial-gradient(circle at 50% 20%, rgba(64,224,208,0.12), transparent 35%),
+        linear-gradient(#060606, #0b0b0b);
+    }
+
+    .hud {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      z-index: 2;
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      letter-spacing: .3px;
+      user-select: none;
+    }
+
+    .pill {
+      padding: 8px 12px;
+      border: 1px solid rgba(232,232,232,.18);
+      border-radius: 999px;
+      background: rgba(255,255,255,.05);
+      backdrop-filter: blur(6px);
+    }
+
+    .help {
+      position: fixed;
+      bottom: 16px;
+      left: 16px;
+      z-index: 2;
+      font-size: 13px;
+      opacity: .8;
+      user-select: none;
+    }
+
+    .center {
+      position: fixed;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      z-index: 3;
+      pointer-events: none;
+      text-align: center;
+    }
+
+    .panel {
+      padding: 24px 28px;
+      border: 1px solid rgba(232,232,232,.16);
+      border-radius: 20px;
+      background: rgba(0,0,0,.55);
+      box-shadow: 0 20px 60px rgba(0,0,0,.45);
+      max-width: 520px;
+      margin: 20px;
+    }
+
+    .title {
+      font-size: 30px;
+      margin: 0 0 10px;
+      color: var(--accent);
+    }
+
+    .subtitle {
+      margin: 0;
+      line-height: 1.5;
+      opacity: .9;
+    }
+
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="hud">
+    <div class="pill">Puntos: <span id="score">0</span></div>
+    <div class="pill">Vidas: <span id="lives">3</span></div>
+    <div class="pill">Nivel: <span id="level">1</span></div>
+  </div>
+
+  <div class="center" id="menu">
+    <div class="panel">
+      <h1 class="title">Retro Plane</h1>
+      <p class="subtitle">
+        Flechas o A/D para moverte, espacio para disparar.<br />
+        Presiona Enter para empezar o reiniciar.
+      </p>
+    </div>
+  </div>
+
+  <div class="help">Controles: ← → / A D · Espacio = disparar · Enter = iniciar/reiniciar</div>
+  <canvas id="game"></canvas>
+
+  <script>
+    const canvas = document.getElementById("game");
+    const ctx = canvas.getContext("2d");
+    const scoreEl = document.getElementById("score");
+    const livesEl = document.getElementById("lives");
+    const levelEl = document.getElementById("level");
+    const menu = document.getElementById("menu");
+
+    let W, H;
+    function resize() {
+      W = canvas.width = window.innerWidth;
+      H = canvas.height = window.innerHeight;
+    }
+    window.addEventListener("resize", resize);
+    resize();
+
+    const keys = new Set();
+
+    const state = {
+      running: false,
+      gameOver: false,
+      score: 0,
+      lives: 3,
+      level: 1,
+      lastShot: 0,
+      shotCooldown: 180,
+      enemyTimer: 0,
+      stars: [],
+      bullets: [],
+      enemies: [],
+      particles: []
+    };
+
+    const player = {
+      x: W / 2,
+      y: H - 90,
+      w: 34,
+      h: 34,
+      speed: 6.2
+    };
+
+    function resetGame() {
+      state.running = true;
+      state.gameOver = false;
+      state.score = 0;
+      state.lives = 3;
+      state.level = 1;
+      state.lastShot = 0;
+      state.enemyTimer = 0;
+      state.bullets = [];
+      state.enemies = [];
+      state.particles = [];
+      state.stars = Array.from({ length: 90 }, () => ({
+        x: Math.random() * W,
+        y: Math.random() * H,
+        r: Math.random() * 1.8 + 0.2,
+        s: Math.random() * 0.9 + 0.4
+      }));
+      player.x = W / 2;
+      player.y = H - 90;
+      menu.classList.add("hidden");
+      syncHUD();
+    }
+
+    function syncHUD() {
+      scoreEl.textContent = state.score;
+      livesEl.textContent = state.lives;
+      levelEl.textContent = state.level;
+    }
+
+    function spawnEnemy() {
+      const size = 28 + Math.random() * 20;
+      state.enemies.push({
+        x: 20 + Math.random() * (W - 40),
+        y: -size,
+        w: size,
+        h: size,
+        speed: 1.8 + Math.random() * 2.2 + state.level * 0.35,
+        drift: (Math.random() - 0.5) * 1.5
+      });
+    }
+
+    function shoot() {
+      const now = performance.now();
+      if (now - state.lastShot < state.shotCooldown) return;
+      state.lastShot = now;
+      state.bullets.push({
+        x: player.x,
+        y: player.y - 18,
+        w: 4,
+        h: 14,
+        speed: 10
+      });
+    }
+
+    function explode(x, y, count = 10) {
+      for (let i = 0; i < count; i++) {
+        state.particles.push({
+          x, y,
+          vx: (Math.random() - 0.5) * 6,
+          vy: (Math.random() - 0.5) * 6,
+          life: 30 + Math.random() * 20,
+          size: Math.random() * 3 + 1
+        });
+      }
+    }
+
+    function rectsHit(a, b) {
+      return (
+        a.x < b.x + b.w &&
+        a.x + a.w > b.x &&
+        a.y < b.y + b.h &&
+        a.y + a.h > b.y
+      );
+    }
+
+    function update() {
+      if (!state.running) return;
+
+      if (keys.has("ArrowLeft") || keys.has("a") || keys.has("A")) player.x -= player.speed;
+      if (keys.has("ArrowRight") || keys.has("d") || keys.has("D")) player.x += player.speed;
+      player.x = Math.max(20, Math.min(W - 20, player.x));
+
+      if (keys.has(" ")) shoot();
+
+      state.stars.forEach(star => {
+        star.y += star.s;
+        if (star.y > H) {
+          star.y = -2;
+          star.x = Math.random() * W;
+        }
+      });
+
+      state.bullets.forEach(b => b.y -= b.speed);
+      state.bullets = state.bullets.filter(b => b.y + b.h > -20);
+
+      state.enemyTimer++;
+      const spawnRate = Math.max(18, 55 - state.level * 3);
+      if (state.enemyTimer >= spawnRate) {
+        spawnEnemy();
+        state.enemyTimer = 0;
+      }
+
+      state.enemies.forEach(e => {
+        e.y += e.speed;
+        e.x += e.drift;
+      });
+
+      state.enemies = state.enemies.filter(e => e.y < H + 60);
+
+      for (let i = state.enemies.length - 1; i >= 0; i--) {
+        const e = state.enemies[i];
+
+        if (
+          rectsHit(
+            { x: player.x - player.w / 2, y: player.y - player.h / 2, w: player.w, h: player.h },
+            e
+          )
+        ) {
+          state.enemies.splice(i, 1);
+          state.lives--;
+          explode(player.x, player.y, 18);
+          if (state.lives <= 0) {
+            state.running = false;
+            state.gameOver = true;
+            menu.classList.remove("hidden");
+            menu.querySelector(".title").textContent = "Game Over";
+            menu.querySelector(".subtitle").innerHTML =
+              `Presiona <strong>Enter</strong> para volver a jugar.<br />Tu puntaje final fue <strong>${state.score}</strong>.`;
+          }
+          continue;
+        }
+
+        for (let j = state.bullets.length - 1; j >= 0; j--) {
+          const b = state.bullets[j];
+          if (rectsHit(b, e)) {
+            state.bullets.splice(j, 1);
+            state.enemies.splice(i, 1);
+            state.score += 10;
+            explode(e.x + e.w / 2, e.y + e.h / 2, 12);
+            if (state.score > 0 && state.score % 100 === 0) {
+              state.level++;
+              state.shotCooldown = Math.max(90, state.shotCooldown - 10);
+            }
+            break;
+          }
+        }
+      }
+
+      state.particles.forEach(p => {
+        p.x += p.vx;
+        p.y += p.vy;
+        p.vx *= 0.98;
+        p.vy *= 0.98;
+        p.life--;
+      });
+      state.particles = state.particles.filter(p => p.life > 0);
+
+      syncHUD();
+    }
+
+    function drawPlayer() {
+      const x = player.x;
+      const y = player.y;
+
+      ctx.save();
+      ctx.translate(x, y);
+
+      ctx.fillStyle = "#40e0d0";
+      ctx.beginPath();
+      ctx.moveTo(0, -22);
+      ctx.lineTo(15, 12);
+      ctx.lineTo(0, 6);
+      ctx.lineTo(-15, 12);
+      ctx.closePath();
+      ctx.fill();
+
+      ctx.fillStyle = "rgba(255,255,255,.9)";
+      ctx.fillRect(-3, -12, 6, 14);
+
+      ctx.fillStyle = "#ffffff";
+      ctx.fillRect(-8, 8, 16, 4);
+
+      ctx.restore();
+    }
+
+    function drawEnemy(e) {
+      ctx.save();
+      ctx.translate(e.x + e.w / 2, e.y + e.h / 2);
+      ctx.fillStyle = "#ff5c7a";
+      ctx.beginPath();
+      ctx.moveTo(0, -e.h / 2);
+      ctx.lineTo(e.w / 2, 0);
+      ctx.lineTo(0, e.h / 2);
+      ctx.lineTo(-e.w / 2, 0);
+      ctx.closePath();
+      ctx.fill();
+
+      ctx.fillStyle = "#ffffff";
+      ctx.fillRect(-3, -3, 6, 6);
+      ctx.restore();
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, W, H);
+
+      state.stars.forEach(star => {
+        ctx.fillStyle = `rgba(255,255,255,${0.4 + star.r / 4})`;
+        ctx.beginPath();
+        ctx.arc(star.x, star.y, star.r, 0, Math.PI * 2);
+        ctx.fill();
+      });
+
+      state.bullets.forEach(b => {
+        ctx.fillStyle = "#ffd166";
+        ctx.fillRect(b.x - b.w / 2, b.y, b.w, b.h);
+      });
+
+      state.enemies.forEach(drawEnemy);
+
+      state.particles.forEach(p => {
+        ctx.fillStyle = `rgba(64,224,208,${Math.max(0, p.life / 50)})`;
+        ctx.fillRect(p.x, p.y, p.size, p.size);
+      });
+
+      drawPlayer();
+
+      if (state.gameOver) {
+        ctx.fillStyle = "rgba(0,0,0,.18)";
+        ctx.fillRect(0, 0, W, H);
+      }
+    }
+
+    function loop() {
+      update();
+      draw();
+      requestAnimationFrame(loop);
+    }
+    loop();
+
+    window.addEventListener("keydown", e => {
+      keys.add(e.key);
+      if (e.key === "Enter") {
+        if (!state.running) {
+          menu.querySelector(".title").textContent = "Retro Plane";
+          menu.querySelector(".subtitle").innerHTML =
+            `Flechas o A/D para moverte, espacio para disparar.<br />Presiona Enter para empezar o reiniciar.`;
+          resetGame();
+        } else if (state.gameOver) {
+          menu.querySelector(".title").textContent = "Retro Plane";
+          menu.querySelector(".subtitle").innerHTML =
+            `Flechas o A/D para moverte, espacio para disparar.<br />Presiona Enter para empezar o reiniciar.`;
+          resetGame();
+        }
+      }
+      if (e.key === " " && !state.running && !state.gameOver) {
+        resetGame();
+      }
+    });
+
+    window.addEventListener("keyup", e => keys.delete(e.key));
+
+    resetGame();
+    state.running = false;
+    menu.classList.remove("hidden");
+  </script>
+</body>
+</html>
