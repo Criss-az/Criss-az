@@ -111,7 +111,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg">
-    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg">
+    <img
+      alt="Galaga contribution graph"
+      src="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg"
+      width="780"
+    >
   </picture>
 </p>
 
