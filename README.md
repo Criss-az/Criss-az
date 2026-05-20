@@ -30,7 +30,7 @@
 - 🏔️ Nací y crecí en **Cochabamba, Bolivia**
 - 📚 Estudio **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón**
 - 🏊‍♂️ Me gusta la natación y los videojuegos
-- 🔥 Actualmente profundizando en **DevOps, Linux, Desarrollo Web y Hacking (CTF)**
+- 🔥 Actualmente profundizando en **DevOps, Linux, Desarrollo Web, Inteligencia Artificial y Hacking (CTF)**
 - 🤝 Disfruto trabajar en equipo, compartir conocimientos y aprender de otros
 - 🗣️ **Español nativo** | **Inglés en aprendizaje**
 
