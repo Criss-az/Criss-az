@@ -41,13 +41,13 @@ What I'm currently building and learning:
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,html,css," />
 </p>
 
 **Frameworks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=express,react,next,tailwind,laravel" />
 </p>
 
 **Tools & Environment**
