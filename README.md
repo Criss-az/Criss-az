@@ -1,132 +1,135 @@
-# ¡Hola! Soy Cristhian Alba Zapata 👋
+# Cristhian Alba Zapata
 
 <p align="center">
-  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" alt="Mago Final Fantasy lanzando fuego" width="220" />
+  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" width="180" alt="Final Fantasy Mage" />
 </p>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas</strong> | 
-  <strong>Apasionado por resolver problemas</strong> | 
-  <strong>Entusiasta de la tecnología</strong>
+  Systems Engineering Student &nbsp;·&nbsp; Cochabamba, Bolivia
 </p>
 
 <p align="center">
-  Cada día aprendo algo nuevo y busco crear soluciones que realmente aporten valor.
+  <em>Passionate about building things that actually work.</em>
 </p>
 
 ---
 
-## 🌟 Lo que me mueve
+## About
 
-- 🌐 Desarrollo web con enfoque en diseño, funcionalidad y buena experiencia de usuario  
-- 🗄️ Bases de datos: modelado, optimización y buenas prácticas  
-- 🛡️ Hacking ético y CTF: aprender resolviendo retos  
-- 🎨 UI/UX con Figma: convertir ideas en interfaces claras y atractivas  
+I'm a systems engineering student at Universidad Mayor de San Simón — I like understanding how things work under the hood, whether that's a web app, a database, a network or a CTF challenge.
 
----
+I work well in teams, I share what I learn and I care about making things that feel clean, useful and honest.
 
-## 🧑‍💻 Sobre mí
-
-- 🏔️ Nací y crecí en **Cochabamba, Bolivia**
-- 📚 Estudio **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón**
-- 🏊‍♂️ Me gusta la natación y los videojuegos
-- 🔥 Actualmente profundizando en **DevOps, Linux, Desarrollo Web, Inteligencia Artificial y Hacking (CTF)**
-- 🤝 Disfruto trabajar en equipo, compartir conocimientos y aprender de otros
-- 🗣️ **Español nativo** | **Inglés en aprendizaje**
-
-> *"Apunta a la luna. Si fallas, al menos estarás entre las estrellas."* 💫
+> *"Aim for the moon. If you miss, you may hit a star."*
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Focus
 
-### Lenguajes
+What I'm currently building and learning:
+
+- **Web Development** — interfaces that are clean, fast and intentional
+- **Artificial Intelligence** — understanding models, tools and real applications
+- **Databases** — modeling, optimization and best practices
+- **Cybersecurity** — ethical hacking, CTF competitions and defensive thinking
+- **UI/UX Design** — turning ideas into clear, human interfaces with Figma
+
+---
+
+## Stack
+
+**Languages**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,html,css" />
 </p>
 
-### Herramientas y entorno
+**Frameworks**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL-0E0E0E?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=express,react,next,tailwind" />
 </p>
 
----
+**Tools & Environment**
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&background=000000&border=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Criss-az&label=Visitas&color=40E0D0&style=flat" alt="visitas" />
-</p>
-
----
-
-## 📬 Conectemos
-
-<p align="center">
-  <a href="https://www.facebook.com/share/1C6AaTQMnY/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,bash,wsl,docker,nodejs,prisma,postgres,mysql,supabase,figma" alt="Tools & Environment" />
   </a>
+</p>
+
+---
+
+## Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&theme=black-ice&hide_border=true&background=0D1117&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    style="max-width: 100%; height: auto; width: 480px;"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Criss-az&label=Profile%20Views&color=40E0D0&style=flat" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/crisalbaz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1C6AaTQMnY/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:crissalbaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">LinkedIn</a> · 
+  <a href="https://www.instagram.com/crisalbaz">Instagram</a> · 
+  <a href="https://www.facebook.com/share/1C6AaTQMnY/">Facebook</a> · 
+  <a href="mailto:crissalbaz@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🔗 Enlaces directos
-
-- <a href="https://www.facebook.com/share/1C6AaTQMnY/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" width="18" /> **Facebook:** Cristhian Alba</a>  
-- <a href="https://www.linkedin.com/in/cristhian-alba-zapata"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="18" /> **LinkedIn:** Cristhian Alba Zapata</a>  
-- <a href="https://www.instagram.com/crisalbaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="Instagram" width="18" /> **Instagram:** @crisalbaz</a>  
-- <a href="mailto:crissalbaz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" width="18" /> **Correo:** crissalbaz@gmail.com</a>
-
----
-
-## 🎮 Retro Zone
+## Retro Zone
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg"
+    />
     <img
-      alt="Galaga contribution graph"
       src="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg"
-      width="780"
-    >
+      style="max-width: 100%; height: auto; width: 640px;"
+      alt="Galaga contribution graph"
+    />
   </picture>
 </p>
 
 <p align="center">
-  <sub>Mini homenaje arcade generado automáticamente con mis contribuciones.</sub>
+  <sub>Mini arcade tribute generated automatically from my GitHub contributions.</sub>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Gracias por visitar mi perfil.  
-  <br />
-  Si tienes un proyecto o idea, será un gusto conectar contigo.
+  <sub>Thanks for visiting.</sub>
 </p>
