@@ -96,15 +96,6 @@
 
 ---
 
-## 🔗 Enlaces directos
-
-- <a href="https://www.facebook.com/share/1C6AaTQMnY/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" width="18" /> **Facebook:** Cristhian Alba</a>  
-- <a href="https://www.linkedin.com/in/cristhian-alba-zapata"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="18" /> **LinkedIn:** Cristhian Alba Zapata</a>  
-- <a href="https://www.instagram.com/crisalbaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="Instagram" width="18" /> **Instagram:** @crisalbaz</a>  
-- <a href="mailto:crissalbaz@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" width="18" /> **Correo:** crissalbaz@gmail.com</a>
-
----
-
 ## 🎮 Retro Zone
 
 <p align="center">
