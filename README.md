@@ -1,110 +1,154 @@
-# Cristhian Alba Zapata
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Criss-az/Criss-az/raw/main/mago.gif" width="180" alt="Final Fantasy Mage" />
-</p>
+<img
+  src="./github_fantasy_banner_ultimate.gif"
+  width="100%"
+  alt="Fantasy landscape with a wandering mage overlooking a distant city"
+/>
 
-<p align="center">
-  Systems Engineering Student &nbsp;·&nbsp; Cochabamba, Bolivia
-</p>
+<br />
 
-<p align="center">
-  <em>Passionate about building things that actually work.</em>
-</p>
+<img
+  src="./cristhian_name_final.gif"
+  width="590"
+  alt="Cristhian Alba Zapata"
+/>
+
+<br />
+
+**Systems Engineering · AI & Software Focus**
+
+`Software Development` · `Artificial Intelligence` · `Data` · `Systems`
+
+<br />
+
+<a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/crisalbaz">
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=F59E0B" alt="Instagram" />
+</a>
+&nbsp;
+<a href="mailto:crissalbaz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=F59E0B" alt="Email" />
+</a>
+
+</div>
 
 ---
 
 ## About
 
-I'm a systems engineering student at Universidad Mayor de San Simón — I like understanding how things work under the hood, whether that's a web app, a database, a network or a CTF challenge.
+<table>
+<tr>
+<td width="72%" valign="top">
 
-I work well in teams, I share what I learn and I care about making things that feel clean, useful and honest.
+I'm focused on building software and understanding how systems work beneath the surface — from interfaces and data to Linux, networks and the infrastructure around them.
 
-> *"Aim for the moon. If you miss, you may hit a star."*
+My current direction is moving toward **Artificial Intelligence and information processing**, with a strong interest in how intelligent systems can become part of real software and interactive experiences.
+
+Most of what I work on comes from **university projects, personal exploration, research-driven experiments and internship development**.
+
+</td>
+
+<td width="28%" align="center" valign="top">
+
+<img
+  src="./mago_refined_v2.gif"
+  width="185"
+  alt="Pixel mage resting by a campfire"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Focus
 
-What I'm currently building and learning:
+**Software Development**  
+Frontend development with **TypeScript & Angular**, working on real software projects and internship development.
 
-- **Web Development** — interfaces that are clean, fast and intentional
-- **Artificial Intelligence** — understanding models, tools and real applications
-- **Databases** — modeling, optimization and best practices
-- **Cybersecurity** — ethical hacking, CTF competitions and defensive thinking
-- **UI/UX Design** — turning ideas into clear, human interfaces with Figma
+**Artificial Intelligence**  
+Exploring intelligent processing, models and the systems required to move AI from experiments into usable applications.
 
----
+**Data**  
+Working with **PostgreSQL**, relational modeling, database design and ORM concepts for larger software systems.
 
-## Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,html,css,covol" />
-</p>
-
-**Frameworks**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,react,next,tailwind,laravel" />
-</p>
-
-**Tools & Environment**
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,bash,wsl,docker,nodejs,prisma,postgres,mysql,supabase,figma" alt="Tools & Environment" />
-  </a>
-</p>
+**Systems & Security**  
+Linux, Docker, networking, development environments and secure software practices.
 
 ---
 
-## Stats
+## Tech Stack
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Criss-az&theme=black-ice&hide_border=true&background=0D1117&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    style="max-width: 100%; height: auto; width: 480px;"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Criss-az&label=Profile%20Views&color=40E0D0&style=flat" />
-</p>
+<table>
+<tr>
+<td align="center" width="58%">
+
+<strong>Working with</strong>
+
+<br />
+
+<img height="42" width="42" src="https://cdn.simpleicons.org/typescript/C2410C/F59E0B" alt="TypeScript" title="TypeScript" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/angular/C2410C/F59E0B" alt="Angular" title="Angular" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/postgresql/C2410C/F59E0B" alt="PostgreSQL" title="PostgreSQL" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/git/C2410C/F59E0B" alt="Git" title="Git" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/linux/C2410C/F59E0B" alt="Linux" title="Linux" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/docker/C2410C/F59E0B" alt="Docker" title="Docker" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/figma/C2410C/F59E0B" alt="Figma" title="Figma" />
+
+</td>
+
+<td align="center" width="8%"></td>
+
+<td align="center" width="34%">
+
+<strong>Exploring deeper</strong>
+
+<br />
+
+<img height="42" width="42" src="https://cdn.simpleicons.org/python/C2410C/F59E0B" alt="Python" title="Python" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/sqlalchemy/C2410C/F59E0B" alt="SQLAlchemy" title="SQLAlchemy" />
+&nbsp;&nbsp;
+<img height="42" width="42" src="https://cdn.simpleicons.org/cplusplus/C2410C/F59E0B" alt="C++" title="C++" />
+
+</td>
+</tr>
+</table>
+
+<sub>Building with what I know · exploring what comes next.</sub>
+
+</div>
 
 ---
 
-## Connect
+## Direction
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/crisalbaz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/share/1C6AaTQMnY/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:crissalbaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> **AI · Data · Software · Systems**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristhian-alba-zapata-4a24583b4">LinkedIn</a> · 
-  <a href="https://www.instagram.com/crisalbaz">Instagram</a> · 
-  <a href="https://www.facebook.com/share/1C6AaTQMnY/">Facebook</a> · 
-  <a href="mailto:crissalbaz@gmail.com">Email</a>
-</p>
+I want to understand how intelligent systems process information, make decisions and become part of complete software architectures.
+
+One direction I want to explore further is applying that work to **interactive software and game systems** — not simply using AI, but understanding enough of the pipeline to build something meaningful around it.
 
 ---
 
-## Retro Zone
+## Contribution Arcade
+
+<p align="center">
+  <sub>A retro layer for this profile — my GitHub contributions transformed into a Galaga-style arcade graph.</sub>
+</p>
 
 <p align="center">
   <picture>
@@ -118,18 +162,16 @@ What I'm currently building and learning:
     />
     <img
       src="https://raw.githubusercontent.com/Criss-az/Criss-az/output/galaga-contribution-graph.svg"
-      style="max-width: 100%; height: auto; width: 640px;"
-      alt="Galaga contribution graph"
+      width="860"
+      alt="Galaga-style GitHub contribution graph"
     />
   </picture>
 </p>
 
-<p align="center">
-  <sub>Mini arcade tribute generated automatically from my GitHub contributions.</sub>
-</p>
-
 ---
 
-<p align="center">
-  <sub>Thanks for visiting.</sub>
-</p>
+<div align="center">
+
+<sub>research · build · understand · repeat</sub>
+
+</div>
